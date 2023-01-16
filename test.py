@@ -12,7 +12,7 @@ class Map(param.Parameterized):
     @param.depends('value')
     def create_map(self):
         df = self.data.loc[self.data["value"] >= self.value]
-        return df.hvplot.points('lon', 'lat', geo=True, tiles=True, responsive=True)
+        return df.hvplot.points('lon', 'lat', geo=True, tiles=True)
     
 map = Map()
 map_dmap = hv.DynamicMap(map.create_map)
