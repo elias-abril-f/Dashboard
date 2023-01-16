@@ -16,6 +16,6 @@ class Map(param.Parameterized):
     
 map = Map()
 map_dmap = hv.DynamicMap(map.create_map)
-app = pn.Column(map.param, map_dmap, sizing_mode="scale_both")
+app = pn.Column(map.param, map_dmap)
 app.servable()
 app.show()
