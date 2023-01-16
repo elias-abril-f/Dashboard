@@ -7,7 +7,7 @@ import hvplot.pandas
 import param
 class Map(param.Parameterized):
     data = pd.read_csv("./data/stations_start.csv")
-    value = param.Integer(default=10, bounds=(min(data["value"]), 300000))
+    value = param.Integer(default=97, bounds=(min(data["value"]), 300000))
     
     @param.depends('value')
     def create_map(self):
