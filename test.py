@@ -17,4 +17,5 @@ class Map(param.Parameterized):
 map = Map()
 map_dmap = hv.DynamicMap(map.create_map)
 app = pn.Row(map.param, map_dmap)
-app.show()
+app.servable()
+app.save("./../test.html", embed=True)
