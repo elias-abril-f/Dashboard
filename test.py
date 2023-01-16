@@ -16,4 +16,5 @@ class Map(param.Parameterized):
     
 map = Map()
 map_dmap = hv.DynamicMap(map.create_map)
-pn.Row(map.param, map_dmap)
+app = pn.Row(map.param, map_dmap)
+app.show()
