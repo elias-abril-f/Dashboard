@@ -1,4 +1,4 @@
-"station","stationid","lat","lon"
+"station","stationid","latcoord","loncoord"
 "Tanner Street, Bermondsey",85,51.500647,-0.0786
 "Sancroft Street, Vauxhall",86,51.489479,-0.115156
 "Devonshire Square, Liverpool Street",87,51.516468,-0.079684
