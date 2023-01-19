@@ -1,2 +1,8 @@
-namedayweek,0
-<bound method PandasDelegate._add_delegate_accessors.<locals>._create_delegator_method.<locals>.f of <pandas.core.indexes.accessors.DatetimeProperties object at 0x0000016E851E6B90>>,76450245
+dayofweek,0
+0,11027136
+1,11281403
+2,11160736
+3,11362074
+4,11094431
+5,10594393
+6,9930072
