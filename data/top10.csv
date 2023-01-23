@@ -1,0 +1,101 @@
+,source,target,value,source_id,target_id
+0,"Hyde Park Corner, Hyde Park","Hyde Park Corner, Hyde Park",146849,0,0
+1,"Hyde Park Corner, Hyde Park","Albert Gate, Hyde Park",30564,0,1
+2,"Hyde Park Corner, Hyde Park","Triangle Car Park, Hyde Park",29700,0,2
+3,"Hyde Park Corner, Hyde Park","Black Lion Gate, Kensington Gardens",24921,0,3
+4,"Hyde Park Corner, Hyde Park","Serpentine Car Park, Hyde Park",24359,0,4
+5,"Hyde Park Corner, Hyde Park","Park Lane , Hyde Park",15762,0,5
+6,"Hyde Park Corner, Hyde Park","Queen's Gate, Kensington Gardens",15221,0,6
+7,"Hyde Park Corner, Hyde Park","Palace Gate, Kensington Gardens",13586,0,7
+8,"Hyde Park Corner, Hyde Park","Bayswater Road, Hyde Park",8576,0,8
+9,"Hyde Park Corner, Hyde Park","Wellington Arch, Hyde Park",6970,0,9
+10,"Belgrove Street , King's Cross","Red Lion Street, Holborn",12228,48,10
+11,"Belgrove Street , King's Cross","Soho Square , Soho",10274,48,11
+12,"Belgrove Street , King's Cross","Holborn Circus, Holborn",9950,48,12
+13,"Belgrove Street , King's Cross","Wren Street, Holborn",9614,48,13
+14,"Belgrove Street , King's Cross","Great Marlborough St, Soho",8403,48,14
+15,"Belgrove Street , King's Cross","Bayley Street , Bloomsbury",7298,48,15
+16,"Belgrove Street , King's Cross","Guilford Street , Bloomsbury",7183,48,16
+17,"Belgrove Street , King's Cross","Newgate Street , St. Paul's",7081,48,17
+18,"Belgrove Street , King's Cross","Theobald's Road , Holborn",6632,48,18
+19,"Belgrove Street , King's Cross","British Museum, Bloomsbury",6310,48,19
+20,"Waterloo Station 3, Waterloo","Newgate Street , St. Paul's",11943,42,17
+21,"Waterloo Station 3, Waterloo","Godliman Street, St. Paul's",10970,42,20
+22,"Waterloo Station 3, Waterloo","Queen Victoria Street, St. Paul's",9813,42,21
+23,"Waterloo Station 3, Waterloo","Queen Street 2, Bank",9427,42,22
+24,"Waterloo Station 3, Waterloo","Wormwood Street, Liverpool Street",9331,42,23
+25,"Waterloo Station 3, Waterloo","Queen Street 1, Bank",9310,42,24
+26,"Waterloo Station 3, Waterloo","Finsbury Circus, Liverpool Street",8840,42,25
+27,"Waterloo Station 3, Waterloo","St. Bride Street, Holborn",8496,42,26
+28,"Waterloo Station 3, Waterloo","Cheapside, Bank",8251,42,27
+29,"Waterloo Station 3, Waterloo","Moorfields, Moorgate",7379,42,28
+30,"Albert Gate, Hyde Park","Albert Gate, Hyde Park",81142,1,1
+31,"Albert Gate, Hyde Park","Hyde Park Corner, Hyde Park",27525,1,0
+32,"Albert Gate, Hyde Park","Black Lion Gate, Kensington Gardens",17361,1,3
+33,"Albert Gate, Hyde Park","Triangle Car Park, Hyde Park",15025,1,2
+34,"Albert Gate, Hyde Park","Park Lane , Hyde Park",14567,1,5
+35,"Albert Gate, Hyde Park","Serpentine Car Park, Hyde Park",12293,1,4
+36,"Albert Gate, Hyde Park","Palace Gate, Kensington Gardens",9261,1,7
+37,"Albert Gate, Hyde Park","Queen's Gate, Kensington Gardens",7442,1,6
+38,"Albert Gate, Hyde Park","Speakers' Corner 1, Hyde Park",6251,1,29
+39,"Albert Gate, Hyde Park","Bayswater Road, Hyde Park",5929,1,8
+40,"Black Lion Gate, Kensington Gardens","Black Lion Gate, Kensington Gardens",78851,3,3
+41,"Black Lion Gate, Kensington Gardens","Palace Gate, Kensington Gardens",28827,3,7
+42,"Black Lion Gate, Kensington Gardens","Hyde Park Corner, Hyde Park",27607,3,0
+43,"Black Lion Gate, Kensington Gardens","Albert Gate, Hyde Park",20421,3,1
+44,"Black Lion Gate, Kensington Gardens","Serpentine Car Park, Hyde Park",9560,3,4
+45,"Black Lion Gate, Kensington Gardens","Queen's Gate, Kensington Gardens",9317,3,6
+46,"Black Lion Gate, Kensington Gardens","Triangle Car Park, Hyde Park",8963,3,2
+47,"Black Lion Gate, Kensington Gardens","Park Lane , Hyde Park",7050,3,5
+48,"Black Lion Gate, Kensington Gardens","Wellington Arch, Hyde Park",6091,3,9
+49,"Black Lion Gate, Kensington Gardens","Exhibition Road, Knightsbridge",5563,3,30
+50,"Waterloo Station 1, Waterloo","Holborn Circus, Holborn",8200,37,12
+51,"Waterloo Station 1, Waterloo","Newgate Street , St. Paul's",6470,37,17
+52,"Waterloo Station 1, Waterloo","Hop Exchange, The Borough",6295,37,31
+53,"Waterloo Station 1, Waterloo","Bankside Mix, Bankside",5856,37,32
+54,"Waterloo Station 1, Waterloo","St. Bride Street, Holborn",5658,37,26
+55,"Waterloo Station 1, Waterloo","Godliman Street, St. Paul's",5414,37,20
+56,"Waterloo Station 1, Waterloo","Queen Victoria Street, St. Paul's",5250,37,21
+57,"Waterloo Station 1, Waterloo","Queen Street 1, Bank",5073,37,24
+58,"Waterloo Station 1, Waterloo","Queen Street 2, Bank",4974,37,22
+59,"Waterloo Station 1, Waterloo","Wormwood Street, Liverpool Street",4687,37,23
+60,"Wellington Arch, Hyde Park","Wellington Arch, Hyde Park",34098,9,9
+61,"Wellington Arch, Hyde Park","Hyde Park Corner, Hyde Park",11619,9,0
+62,"Wellington Arch, Hyde Park","Triangle Car Park, Hyde Park",10880,9,2
+63,"Wellington Arch, Hyde Park","Black Lion Gate, Kensington Gardens",10679,9,3
+64,"Wellington Arch, Hyde Park","Storey's Gate, Westminster",9673,9,33
+65,"Wellington Arch, Hyde Park","Serpentine Car Park, Hyde Park",9193,9,4
+66,"Wellington Arch, Hyde Park","Albert Gate, Hyde Park",7218,9,1
+67,"Wellington Arch, Hyde Park","Craven Street, Strand",6708,9,34
+68,"Wellington Arch, Hyde Park","Queen's Gate, Kensington Gardens",6185,9,6
+69,"Wellington Arch, Hyde Park","Green Park Station, Mayfair",5449,9,35
+70,"Hop Exchange, The Borough","Bankside Mix, Bankside",7401,31,32
+71,"Hop Exchange, The Borough","Hop Exchange, The Borough",6545,31,31
+72,"Hop Exchange, The Borough","Stamford Street, South Bank",6122,31,36
+73,"Hop Exchange, The Borough","Waterloo Station 1, Waterloo",5354,31,37
+74,"Hop Exchange, The Borough","Wormwood Street, Liverpool Street",5260,31,23
+75,"Hop Exchange, The Borough","Milroy Walk, South Bank",5025,31,38
+76,"Hop Exchange, The Borough","Lavington Street, Bankside",4610,31,39
+77,"Hop Exchange, The Borough","Poured Lines, Bankside",4272,31,40
+78,"Hop Exchange, The Borough","Baylis Road, Waterloo",3973,31,41
+79,"Hop Exchange, The Borough","Waterloo Station 3, Waterloo",3829,31,42
+80,"Triangle Car Park, Hyde Park","Triangle Car Park, Hyde Park",65119,2,2
+81,"Triangle Car Park, Hyde Park","Hyde Park Corner, Hyde Park",27804,2,0
+82,"Triangle Car Park, Hyde Park","Black Lion Gate, Kensington Gardens",13206,2,3
+83,"Triangle Car Park, Hyde Park","Albert Gate, Hyde Park",13170,2,1
+84,"Triangle Car Park, Hyde Park","Park Lane , Hyde Park",12415,2,5
+85,"Triangle Car Park, Hyde Park","Serpentine Car Park, Hyde Park",11141,2,4
+86,"Triangle Car Park, Hyde Park","Palace Gate, Kensington Gardens",7007,2,7
+87,"Triangle Car Park, Hyde Park","Queen's Gate, Kensington Gardens",6337,2,6
+88,"Triangle Car Park, Hyde Park","Bayswater Road, Hyde Park",5568,2,8
+89,"Triangle Car Park, Hyde Park","Wellington Arch, Hyde Park",4600,2,9
+90,"Wormwood Street, Liverpool Street","Duke Street Hill, London Bridge",9304,23,43
+91,"Wormwood Street, Liverpool Street","Waterloo Station 3, Waterloo",8289,23,42
+92,"Wormwood Street, Liverpool Street","Hop Exchange, The Borough",6938,23,31
+93,"Wormwood Street, Liverpool Street","Whitehall Place, Strand",5629,23,44
+94,"Wormwood Street, Liverpool Street","Waterloo Station 1, Waterloo",4964,23,37
+95,"Wormwood Street, Liverpool Street","Bankside Mix, Bankside",4640,23,32
+96,"Wormwood Street, Liverpool Street","Tooley Street, Bermondsey",4412,23,45
+97,"Wormwood Street, Liverpool Street","Tate Modern, Bankside",3249,23,46
+98,"Wormwood Street, Liverpool Street","Waterloo Station 2, Waterloo",2865,23,47
+99,"Wormwood Street, Liverpool Street","Newgate Street , St. Paul's",2860,23,17
